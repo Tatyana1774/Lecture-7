@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\lec7\11\obj\Debug\net7.0\11.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\lec7\11\obj\Debug\net7.0\11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\lec7\11\obj\Debug\net7.0\11.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\lec7\11\obj\Debug\net7.0\11.AssemblyInfo.cs
+C:\Users\ACER\Desktop\lec7\11\obj\Debug\net7.0\11.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\lec7\11\bin\Debug\net7.0\11.exe
+C:\Users\ACER\Desktop\lec7\11\bin\Debug\net7.0\11.deps.json
+C:\Users\ACER\Desktop\lec7\11\bin\Debug\net7.0\11.runtimeconfig.json
+C:\Users\ACER\Desktop\lec7\11\bin\Debug\net7.0\11.dll
+C:\Users\ACER\Desktop\lec7\11\bin\Debug\net7.0\11.pdb
+C:\Users\ACER\Desktop\lec7\11\obj\Debug\net7.0\11.dll
+C:\Users\ACER\Desktop\lec7\11\obj\Debug\net7.0\refint\11.dll
+C:\Users\ACER\Desktop\lec7\11\obj\Debug\net7.0\11.pdb
+C:\Users\ACER\Desktop\lec7\11\obj\Debug\net7.0\11.genruntimeconfig.cache
+C:\Users\ACER\Desktop\lec7\11\obj\Debug\net7.0\ref\11.dll
